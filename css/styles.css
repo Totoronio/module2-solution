@@ -16,10 +16,14 @@ h2 {
   position: absolute;
   top: 0px;
   right: 0px;
+  border: 1px solid black;
+  background-color: #0f0f0f;
+  color: white;
+  
 }
 
 div {
-  postion: relative;
+  position: relative;
 }
 
 
