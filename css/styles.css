@@ -9,6 +9,7 @@ body {
 }
 
 h1 {
+  width: 100%;
   margin: 15px auto;
 }
 
@@ -16,7 +17,7 @@ h2 {
   position: absolute;
   top: 0px;
   right: 15px;
-  clear: both;
+  clear: right;
   border: 1px solid black;
   background-color: #882222;
   color: white;
