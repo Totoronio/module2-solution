@@ -13,8 +13,7 @@ body {
   width: 100%;
 }
 
-h1 {
-  width: 80%;
+.header h1 {
   text-align: center;
   margin: 15px auto;
 }
