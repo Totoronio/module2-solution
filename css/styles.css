@@ -16,7 +16,7 @@ h1 {
 section {
   position: relative;
   width: 80%;
-  margin: 15px auto;
+  margin: 15px;
   
 }
 
@@ -48,7 +48,6 @@ h2.beef {
 
 h2.sushi {
   background-color: #228888;
-  color: black;
 }
   
 
