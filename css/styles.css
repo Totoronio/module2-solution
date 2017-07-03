@@ -9,12 +9,12 @@ body {
 }
 
 .header {
-  position: relative;
+  position: absolute;
   width: 100%;
 }
 
 h1 {
-  margin: auto;
+  margin: 15px auto;
 }
 
 section {
